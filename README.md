@@ -2,10 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimran&label=Profile Views&color=red&style=plastic" alt="nimran" /> </p>
 
 
-- 🔭 I’m currently working on Aviva Singapore
-- 🌱 I’m currently learning React and Flutter
+- 🔭 I’m currently working at Aviva Singlife.
+- 🌱 I’m currently learning React/React Native
 - 👯 I’m looking to collaborate on LinkedIn
-- 🤔 I’m looking for help with React Freelance Projects
 - 💬 Ask me about Mobile Apps, I help you
 - 📫 How to reach me: WA ( +65-84265520 )
 - ⚡ Fun fact: I became lazy nowadays :( 
